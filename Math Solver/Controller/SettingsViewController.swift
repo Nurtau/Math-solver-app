@@ -1,9 +1,3 @@
-//
-//  SettingsViewController.swift
-//  Math Solver
-//
-//  Created by Нуртау on 12/21/20.
-//
 
 import UIKit
 
