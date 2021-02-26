@@ -46,7 +46,7 @@ class MathManager {
             secondNumber = Int.random(in: 1...max/2)
             answer = firstNumber + secondNumber
             operation = "+"
-        } else if operationIndex == 1 { //subsraction
+        } else if operationIndex == 1 { //substraction
             firstNumber = Int.random(in: 1...max)
             secondNumber = Int.random(in: 1...max)
             answer = firstNumber - secondNumber
